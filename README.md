@@ -1,3 +1,15 @@
+# 💫 Hi 👋, I'm vivek kumar.
+**Passionate to Machine Learning || AWS || RDBMS
+
+Email Me 👉 ✉️ **vivekop8825@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Machine Learning Project
+- 🌱 **I’m currently learning:** Pipelining in ML.
+- 👯 **I’m looking to collaborate on:** AI-FOR=BHARAT-PROJECT.
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** vivekop8825@gmail.com
+- 😄 **Pronouns:** vivek kumar.
+- ⚡ **Fun fact:** I Love biulding products.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vivek-kumar-npk/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vivek Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekop8825@gmail.com) 
